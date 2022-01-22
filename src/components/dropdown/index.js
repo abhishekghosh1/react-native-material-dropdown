@@ -506,7 +506,7 @@ export default class Dropdown extends PureComponent {
 
         return (
             <TextInput
-                style={{backgroundColor: "transparent", marginBottom: 16}}
+                style={{backgroundColor: "#9E9E9E", marginBottom: 16}}
                 label=''
                 {...props}
                 value={title}
